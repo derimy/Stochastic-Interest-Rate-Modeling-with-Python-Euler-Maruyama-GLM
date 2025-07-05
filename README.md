@@ -41,11 +41,6 @@ This project presents a stochastic modeling approach to interest rates using Pyt
 
 ---
 
-## 📈 Sample Outputs
-
-> *(Add screenshots here later: e.g. plots, joy plots, or backtesting result graphs)*
-
----
 
 ## 📚 Academic Context
 
